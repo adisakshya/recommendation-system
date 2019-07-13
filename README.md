@@ -15,18 +15,18 @@ Welome to Recommendation Systems! I've designed this repo to expand your knowled
          * [Item based filtering](#item-based-filtering)
       * [Matrix factorization](#matrix-factorization)
 
+# Why Recommendations?
+
+A recommendation system helps users finding compelling content in a large corpora. For example, the Google Play Store provides millions of apps, while YouTube provides billions of videos. More apps and videos are added every day. How can users find new compelling new content? 
+
+Yes, one can use search to access content. However, a recommendation engine can display items that users might not have thought to search for on their own.
+
 # What are Recommendations?
 
 - How does YouTube know what video you might want to watch next?
 - How does the Google Play Store pick an app just for you?
 
 Magic? No, in both cases, an ML-based recommendation model determines how similar videos and apps are to other things you like and then serves up a recommendationns
-
-# Why Recommendations?
-
-A recommendation system helps users finding compelling content in a large corpora. For example, the Google Play Store provides millions of apps, while YouTube provides billions of videos. More apps and videos are added every day. How can users find new compelling new content? 
-
-Yes, one can use search to access content. However, a recommendation engine can display items that users might not have thought to search for on their own.
 
 # Terminology
 Before we dive in, there are a few terms that you should know:
