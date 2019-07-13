@@ -1,6 +1,20 @@
 # recommendation-system
 Welome to Recommendation Systems! I've designed this repo to expand your knowledge of recommendation systems and explain collaborative filtering model used in recommendation
 
+## Table of content
+   * [Why Recommendations ?](#why-recommendations)
+   * [What are Recommendations ?](#what-are-recommendations)
+   * [Terminology](#Terminology)
+      * [Items](#items)
+      * [Query](#Query)
+      * [Candidate generation](#candidate-generation)
+   * [Collaborative Filtering](#collaborative-filtering)
+   * [Types of Collaborative Filtering models](#types-of-collaborative-filtering-models)
+      * [Nearest neighbor Collaborative Filtering](#nearest-neighbor-collaborative-filtering)
+         * [User based filtering](#user-based-filtering)
+         * [Item based filtering](#item-based-filtering)
+      * [Matrix factorization](#matrix-factorization)
+
 # What are Recommendations?
 
 - How does YouTube know what video you might want to watch next?
@@ -81,6 +95,7 @@ It can be looked at two ways,
 
 ![Nearest neighbor collaborative filtering](https://miro.medium.com/max/875/1*8Ex4Vyb7dFOIlqGS2Q1Eiw.jpeg "Nearest neighbor collaborative filtering")
 Image source from [here](https://medium.com/@cfpinela/recommender-systems-user-based-and-item-based-collaborative-filtering-5d5f375a127f)
+
 # Matrix factorization:
 - It is basically model based collaborative filtering
 - Matrix factorization is the important technique in recommendation system.
@@ -97,5 +112,6 @@ Image source from [here](https://www.youtube.com/watch?v=ZspR5PZemcs)
 
 # TODO
 
+Add examples using 
 - Matrix Factorization
-- Deep Neural Networks.
+- Deep Neural Networks
